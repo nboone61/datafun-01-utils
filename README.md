@@ -4,7 +4,7 @@ Nolan Boone
 
 # Project Description
 This project is to help us get used to using VS Code, Git, and Python code, as well as 
-learning some of the more professional ways to write code that arent always taught.
+learning some of the more professional ways to write code.
 
 # Skills
 At the end of the project, the skills that were demonstrated were:
